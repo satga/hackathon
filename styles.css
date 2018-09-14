@@ -30,7 +30,7 @@ nav {
   padding: 0;
 }
 
-.call2action {
+.call2actionBtn {
   background-color: #FF001F;
   color: white;
 }
@@ -116,6 +116,23 @@ nav {
   padding-top: 2vh;
   padding-bottom: 2vh;
   text-align: center;
+}
+
+.call2action {
+  background-image: url(img/coconut3.jpg);
+  color: white;
+  text-shadow: 2px 1px #FF001F;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position: center;
+  height: 70vh;
+  /* color: white; */
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0;
 }
 
 .social {
