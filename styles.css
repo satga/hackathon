@@ -88,9 +88,10 @@ nav {
 
 .content-how{
   background-color: white;
+  font-size: 1.3em;
   padding-top: 12vh;
-  width: 23vw;
-  height: 23vw;
+  width: 23vh;
+  height: 23vh;
   text-align: center;
 }
 
