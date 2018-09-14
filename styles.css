@@ -1,0 +1,99 @@
+/* Green Hex: B3CE2E
+Blue hex: A1F0EA
+Orange hex: FF740B
+Black: 000000
+White: f6f6f6 */
+body {
+  padding: 0;
+}
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+  color: black;
+  background-color: #B3CE2E;
+}
+
+.header {
+  background-image: url(img/coconut1.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position: center;
+  height: 70vh;
+  /* color: white; */
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0;
+}
+
+.call2action {
+  background-color: #FF001F;
+  color: white;
+}
+
+.services {
+  background-color: #E4F9F7;
+  /* color: #FF740B; */
+}
+.service-box {
+  padding: 5vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: baseline;
+  text-align: center;
+}
+
+.circle {
+  /* border: 3px solid white; */
+  padding: 2vh;
+  margin: 2vh;
+  border-radius: 50%;
+  font-size: 1.3em
+}
+
+.reviews {
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+
+}
+
+
+.stars {
+ color: goldenrod;
+ font-size: 5em;
+ /* display: inline-block;
+ display: flex;*/
+ justify-items: center; 
+}
+
+.how {
+  background-image: url(img/coconut2.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position: center;
+  height: 70vh;
+  /* color: white; */
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0;
+}
+
+.content-how{
+  background-color: white;
+  padding-top: 12vh;
+  width: 23vw;
+  height: 23vw;
+  text-align: center;
+}
+
+.social {
+  font-size: 1.5em;
+}
