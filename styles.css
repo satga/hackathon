@@ -112,6 +112,12 @@ nav {
   background-color: white;
 }
 
+.testimony {
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  text-align: center;
+}
+
 .social {
   font-size: 1.5em;
 }
